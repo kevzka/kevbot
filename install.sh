@@ -13,6 +13,7 @@ npm i -g ytdl
 npm i node-tesseract-ocr
 npm i
 npm i got
+npm i @adiwajshing/baileys@^3.3.0
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
 
