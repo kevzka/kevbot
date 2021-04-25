@@ -73,6 +73,7 @@ https://youtu.be/hhvQwPG2EF4
 > pkg install git
 > git clone https://github.com/kevzka/kevbot
 > cd kevbot
+> npm i @adiwajshing/baileys@^3.3.0
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
