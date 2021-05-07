@@ -67,14 +67,19 @@ Cara edit no owner
 https://youtu.be/hhvQwPG2EF4
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
-
+> download file node_modules nya disini https://www.mediafire.com/file/1wwzuab24q2brqu/node_modules.zip/file
+> ekstrak file node_modules.zip ny ke dcim
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > pkg install git
-> git clone https://github.com/kevzka/kevbot
+> git clone https://github.com/kevzka/kevbot.git
 > cd kevbot
-> npm i @adiwajshing/baileys@^3.3.0
-> bash install.sh
+> pkg install mc
+> mc
+> tekan /. Klik view berwana biru untuk membuka file
+> tekan storage view lagi
+> tekan dcim view lagi
+> tekan node_modules terus klik copy untuk menyalin file ke kevbot
 > node index.js
 > Tinggal scan kode qr yeee...done
 ```
