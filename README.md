@@ -61,6 +61,8 @@ Siapin alat dan bahannya.
 <p align="center">
 
 ### CARA INSTALLNYA  
+Jika kalian bingung ato ada yang error bilang owner ny aj
+https://wa.me/6283141621181
 Versi video
 https://youtu.be/HT8UmhN9cYM
 Cara edit no owner
