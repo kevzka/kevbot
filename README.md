@@ -10,7 +10,7 @@
 <a href="#"><img title="KEVIN APT" src="https://img.shields.io/badge/Kevin-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KEVIN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/kevzka"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KEVIN-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/kevzka/kevbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/kevzka?color=blue&style=flat-square"></a>
@@ -64,7 +64,7 @@ Siapin alat dan bahannya.
 Jika kalian bingung ato ada yang error bilang owner ny aj
 https://wa.me/6283141621181
 Versi video
-https://youtu.be/HT8UmhN9cYM
+https://youtu.be/QLGXTu1uVD0
 Cara edit no owner
 https://youtu.be/hhvQwPG2EF4
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
