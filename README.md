@@ -67,9 +67,11 @@ Versi video
 https://youtu.be/QLGXTu1uVD0
 Cara edit no owner
 https://youtu.be/hhvQwPG2EF4
+Link node_modules
+https://www.mediafire.com/file/kdcztwrjp4sm3me/node_modules.zip/file#
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
-> download file node_modules nya disini https://www.mediafire.com/file/1wwzuab24q2brqu/node_modules.zip/file
+> download file node_modules nya disini https://www.mediafire.com/file/kdcztwrjp4sm3me/node_modules.zip/file#
 > ekstrak file node_modules.zip ny ke dcim
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
