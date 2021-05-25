@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kevin
+Up## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kevin
 <p align="center">
 <img src="https://github.com/kevzka/Kevzka/blob/main/halo.jpg" width="230" height="230"/>
 </p>
@@ -27,7 +27,7 @@
 
 ### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗞𝗘𝗩𝗜𝗡
 
-### WARNING <img src="https://github.com/kevzka/kevbotwhatsapp/blob/main/assets/tenor.gif" width="29px">
+### WARNING git/SC ini not work masih dalam pengembangan <img src="https://github.com/kevzka/kevbotwhatsapp/blob/main/assets/tenor.gif" width="29px">
 MAU RE-UPLOAD SCRIPT? Jangan lupa cantumkan github gw
 
 ## NOTE:> 
