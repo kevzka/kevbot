@@ -74,8 +74,9 @@ https://youtu.be/hhvQwPG2EF4
 > pkg install git
 > git clone https://github.com/kevzka/kevbot.git
 > pkg install unzip
-> unzip kevbot2
-> cd kevbot2
+> cd kevbot
+> unzip kevbot2.zip
+> bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
 ```
