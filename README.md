@@ -27,7 +27,7 @@
 
 ### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗞𝗘𝗩𝗜𝗡
 
-### WARNING git/SC ini not work masih dalam pengembangan <img src="https://github.com/kevzka/kevbotwhatsapp/blob/main/assets/tenor.gif" width="29px">
+### WARNING <img src="https://github.com/kevzka/kevbotwhatsapp/blob/main/assets/tenor.gif" width="29px">
 MAU RE-UPLOAD SCRIPT? Jangan lupa cantumkan github gw
 
 ## NOTE:> 
@@ -67,23 +67,15 @@ Versi video
 https://youtu.be/QLGXTu1uVD0
 Cara edit no owner
 https://youtu.be/hhvQwPG2EF4
-Link node_modules
-https://www.mediafire.com/file/kdcztwrjp4sm3me/node_modules.zip/file#
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
-> download file node_modules nya disini https://www.mediafire.com/file/kdcztwrjp4sm3me/node_modules.zip/file#
-> ekstrak file node_modules.zip ny ke dcim
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > pkg install git
 > git clone https://github.com/kevzka/kevbot.git
-> cd kevbot
-> pkg install mc
-> mc
-> tekan /. Klik view berwana biru untuk membuka file
-> tekan storage view lagi
-> tekan dcim view lagi
-> tekan node_modules terus klik copy untuk menyalin file ke kevbot
+> pkg install unzip
+> unzip kevbot2
+> cd kevbot2
 > node index.js
 > Tinggal scan kode qr yeee...done
 ```
