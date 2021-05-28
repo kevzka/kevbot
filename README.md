@@ -14,7 +14,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/kevzka/kevbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/kevzka?color=blue&style=flat-square"></a>
-<a href="https://github.com/kevzka/kevbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kevzka/kevbotcolor=red&style=flat-square"></a>
+<a href="https://github.com/kevzka/kevbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kevzka/kevbot?color=red&style=flat-square"></a>
 <a href="https://github.com/kevzka/kevbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kevzka/kevbot?color=red&style=flat-square"></a>
 <a href="https://github.com/kevzka/kevbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kevzka/kevbot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkevzka%2Fkevbot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
