@@ -4273,7 +4273,7 @@ break
 > TOBZ
 > XTEAM
 > MHANKBARBAR
-> All Creator Bot WhatsApp
+> All Creator Bot WhatsApp :v
 */				
 			if (isGroup && !isCmd && isSimi && budy != undefined) {
 						console.log(budy)
@@ -4284,6 +4284,6 @@ break
 					}
 					}
 		} catch (e) {
-			console.log('Error : %s', color(e, 'red'))
+			console.log('Error : %s', color(util.format(e), 'red'))
 		}
 	})
