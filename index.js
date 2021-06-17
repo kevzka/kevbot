@@ -4284,6 +4284,6 @@ break
 					}
 					}
 		} catch (e) {
-			console.log(color(util.format(e), 'red'))
+			console.log('Error : %s', color(e, 'red'))
 		}
 	})
