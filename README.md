@@ -72,6 +72,7 @@ https://youtu.be/hhvQwPG2EF4
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
+> download juga aplikasi edit seperti quickedit atau acode
 > pkg install git
 > git clone https://github.com/kevzka/kevbot.git
 > pkg install unzip
