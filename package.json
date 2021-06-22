@@ -1,5 +1,5 @@
 {
-  "name": "babybot",
+  "name": "kevbot",
   "version": "1.0.0",
   "description": "Jangan numpang nama doang",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "k"
   ],
-  "author": "RAMLAN",
+  "author": "KEVIN",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ramlan666/babybot.git"
