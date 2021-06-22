@@ -75,9 +75,7 @@ https://youtu.be/hhvQwPG2EF4
 > download juga aplikasi edit seperti quickedit atau acode
 > pkg install git
 > git clone https://github.com/kevzka/kevbot.git
-> pkg install unzip
 > cd kevbot
-> unzip kevbot2.zip
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
