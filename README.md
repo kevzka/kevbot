@@ -50,8 +50,6 @@ Siapin alat dan bahannya.
 ### api's
 | Api | Link |
 |--------|--------|
-| **Mhankbabar** | [link](https://http://mhankbarbar.moe) |
-| **Vhtear** | [link](https://vhtear.com) |
 | **Naufalhoster** | [link](https://naufalhoster.xyz) |
 | **Lolhuman** | [link](https://api.lolhuman.xyz) |
 | **Tobz** | [link](https://tobz-api.herokuapp.com) |
